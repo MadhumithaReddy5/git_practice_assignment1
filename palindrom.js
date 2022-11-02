@@ -4,6 +4,7 @@ let name="naman"
         cat=cat+str[i];
     }
     if (cat===str){
+
         console.log("Yes");
     }
     else {
